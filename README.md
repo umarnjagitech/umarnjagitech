@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @omarndungo
-- 👀 I’m interested in CGI
-- 🌱 I’m currently learning Python and Unity
-- 💞️ I’m looking to collaborate on Animated Stories and films
+- 👋 Hi, I’m @umarnjagitech
+- 👀 I’m interested in a lot of stuff
+- 🌱 I’m currently learning.. a few different technologies
+- 💞️ I’m looking to collaborate on TensorFlow
 - 📫 How to reach me... omarnjagi@gmail.com
 
 <!---
