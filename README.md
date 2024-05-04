@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @umarnjagitech
-- 👀 I’m interested in a lot of stuff
-- 🌱 I’m currently learning.. a few different technologies
-- 💞️ I’m looking to collaborate on TensorFlow
-- 📫 How to reach me... omarnjagi@gmail.com
+- 👀 I’m interested in Android development and Security.
+- 🌱 I’m currently learning... Kotlin and DSA
+- 💞️ I’m looking to collaborate on Kotlin and Android Bug Bounty.
+- 📫 How to reach me... [Email me ](omarnjagi@gmail.com)
 
 <!---
 omarndungo/omarndungo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
