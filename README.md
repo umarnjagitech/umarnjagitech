@@ -9,7 +9,8 @@ omarndungo/omarndungo is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-# Working on: Voice_Journalling_Assistant
+# Working on: 
+# 1: Voice_Journalling_Assistant
 
 <p>A mobile-based journaling application, intended to address mental health issues by providing users with an opportunity to speak out about their challenges, while at the same time storing a journal of these events using speech to text technology</p>
 
