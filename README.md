@@ -14,9 +14,18 @@ You can click the Preview link to take a look at your changes.
 
 <p>A mobile-based journaling application, intended to address mental health issues by providing users with an opportunity to speak out about their challenges, while at the same time storing a journal of these events using speech to text technology</p>
 
-## MVP(Minimum Viable Product)
-### Demo
-[![Nakuskia App MVP Demo - 2022](https://img.youtube.com/vi/klpqY4L6yds/0.jpg)](https://www.youtube.com/watch?v=klpqY4L6yds)
+## Technologies
 
-### MVP Release 1.0 APK
-[MVP APK](https://drive.google.com/file/d/1JLDdusmaXD9BHB1D6arANN1ZaITXD18w/view?usp=sharing)
+- FlutterFire: Flutter + Firebase
+
+## MVP: v1.0
+
+#### APK
+
+- Click to try out the first iteration of my app -> [MVP APK](https://drive.google.com/file/d/1JLDdusmaXD9BHB1D6arANN1ZaITXD18w/view?usp=sharing)
+
+- Watch the Demo below:
+
+#### Demo - Click to Watch on YouTube
+
+[![Nakuskia App MVP Demo - 2022](https://img.youtube.com/vi/klpqY4L6yds/0.jpg)](https://www.youtube.com/watch?v=klpqY4L6yds)
