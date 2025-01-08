@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @umarnjagitech
-- 👀 I’m interested in Android development and Security.
+- 👀 I’m interested in Android development and Offensive Security.
 - 🌱 I’m currently learning... Flutter and DSA(Python)
 - 💞️ I’m looking to collaborate on Flutter, Python, Code Livestreams, and Android Bug Bounty.
 - 📫 How to reach me... Check social links on my profile.
@@ -17,3 +17,6 @@ You can click the Preview link to take a look at your changes.
 ## MVP(Minimum Viable Product)
 ### Demo
 [![Nakuskia App MVP Demo - 2022](https://img.youtube.com/vi/klpqY4L6yds/0.jpg)](https://www.youtube.com/watch?v=klpqY4L6yds)
+
+### MVP Release 1.0 APK
+[MVP APK](https://drive.google.com/file/d/1JLDdusmaXD9BHB1D6arANN1ZaITXD18w/view?usp=sharing)
