@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @umarnjagitech
-- 👀 I’m interested in Android development and Offensive Security.
-- 🌱 I’m currently learning... Flutter and DSA(Python)
-- 💞️ I’m looking to collaborate on Flutter, Python, Code Livestreams, and Android Bug Bounty.
+- 👀 I’m interested in Offensive Security.
+- 🌱 I’m currently learning Offensive Security
+- 💞️ I’m looking to collaborate on Code Livestreams, and Offensive Security.
 - 📫 How to reach me... Check social links on my profile.
 
 <!---
