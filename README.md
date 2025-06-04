@@ -7,7 +7,7 @@
 <!---
 omarndungo/omarndungo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
 
 # Working on: 
 # 1: Voice_Journalling_Assistant
@@ -29,3 +29,4 @@ You can click the Preview link to take a look at your changes.
 #### Demo - Click to Watch on YouTube
 
 [![Nakuskia App MVP Demo - 2022](https://img.youtube.com/vi/klpqY4L6yds/0.jpg)](https://www.youtube.com/watch?v=klpqY4L6yds)
+--->
