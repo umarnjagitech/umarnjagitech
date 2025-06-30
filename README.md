@@ -4,9 +4,6 @@
 - 💞️ I’m looking to collaborate on Code Livestreams, and Offensive Security.
 - 📫 How to reach me... Check social links on my profile.
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1737521" style='border:none;'></iframe>
-
-
 <!---
 omarndungo/omarndungo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
