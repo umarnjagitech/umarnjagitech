@@ -1,7 +1,7 @@
 ## 👋 Hey there, I’m Umar Ndungo
 
 ### 🧠 What I Do
-- Communicate complex technical concepts simply — from YouTube tutorials to podcast episodes  
+- Communicate complex technical concepts simply — from YouTube videos to podcast episodes  
 - Define user stories & map user journeys for intuitive product design  
 - Build & deploy full-stack apps and security tools
 
