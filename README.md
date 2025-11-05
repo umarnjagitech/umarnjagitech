@@ -1,3 +1,27 @@
+## 👋 Hey there, I’m Umar Ndungo
+
+### 🧠 What I Do
+- Communicate complex technical concepts simply — from YouTube tutorials to podcast episodes  
+- Define user stories & map user journeys for intuitive product design  
+- Build & deploy full-stack apps and security tools
+
+### 💻 Tech Highlights
+- 🗣️ Speech-to-text mental health journaling app  
+- 🕵️ Penetration testing & reconnaissance scripts  
+- 🏡 Airbnb clone — Python + MySQL + Linux infrastructure
+
+### ⚡ Strengths
+- Storyteller’s creativity 🎬  
+- Engineer’s precision 🧑‍💻  
+- Teacher’s clarity 📚  
+
+### 🚀 What I’m Looking For
+Opportunities to blend creativity, engineering, and communication to build products that truly matter.
+
+
+
+
+<!---
 - 👋 Hi, I’m @umarnjagitech
 - 👀 I’m interested in Offensive Security.
 - 🌱 I’m currently learning Offensive Security
@@ -15,7 +39,7 @@ These experiences have strengthened my problem-solving abilities and helped me a
 What makes me unique is the intersection I operate in — I can think like a storyteller, execute like an engineer, and communicate like a teacher. I’m passionate about creating solutions that are not just functional, but understandable and impactful to both users and business stakeholders. 
 
 I’m now looking for opportunities where I can contribute that blend of creativity, technical execution, and clarity in communication to help teams build products that truly matter.
-<!---
+
 omarndungo/omarndungo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
