@@ -20,14 +20,14 @@
 *Mental health journaling using speech-to-text technology.*
 * Integrated **Flutter + Firebase** (FlutterFire) for secure, real-time data handling.
 * Focused on user-centric accessibility and voice-to-logic mapping.
-* [Watch the MVP Demo on YouTube](https://www.youtube.com/watch?v=klpqY4L6yds)
+<!--* [Watch the MVP Demo on YouTube](https://www.youtube.com/watch?v=klpqY4L6yds)-->
 
-#### [NexusPay (Security Simulation)](https://github.com/umarndungo) 💳
+<!--#### [NexusPay (Security Simulation)](https://github.com/umarndungo) 💳
 *Secure Fintech Wallet architected in both Flutter & Native Kotlin.*
 * Implemented **SSL Pinning**, **Biometric Auth**, and **Root Detection** via a custom JNI bridge.
-* Conducted dynamic analysis using Frida to verify integrity against MitM attacks.
+* Conducted dynamic analysis using Frida to verify integrity against MitM attacks.-->
 
-#### [Malware Analysis Portfolio](https://github.com/umarndungo) 🔬
+#### [Malware Analysis Demo](https://youtube.com/@ch13f_um4r) 🔬
 *A collection of deep-dive reports and reverse engineering tasks.*
 * Detailed walkthroughs of binary exploitation and network reconnaissance scripts.
 * Summarized technical tasks into actionable security insights for stakeholders.
