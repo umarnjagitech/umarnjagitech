@@ -1,23 +1,54 @@
-## 👋 Hey there, I’m Umar Ndungo
+# 🛡️ Umar Ndungo | Security-First Software Engineer
+
+**The "Build and Break" Specialist.** I bridge the gap between high-performance software engineering and offensive security research. I don't just build applications; I engineer them to survive the modern threat landscape.
+
+---
 
 ### 🧠 What I Do
-- Communicate complex technical concepts simply — from YouTube videos to podcast episodes  
-- Define user stories & map user journeys for intuitive product design  
-- Build & deploy full-stack apps and security tools
+* **Architect & Secure:** Building cross-platform Flutter/Kotlin apps and Python platforms with a "security-first" mindset.
+* **Reverse Engineering:** Deconstructing complex threats and Android malware to build more resilient codebases.
+* **Technical Storytelling:** Translating deep technical intricacies into clear user journeys and stakeholder-ready communication.
 
-### 💻 Tech Highlights
-- 🗣️ Speech-to-text mental health journaling app  
-- 🕵️ Penetration testing & reconnaissance scripts  
-- 🏡 Airbnb clone — Python + MySQL + Linux infrastructure
+### 💻 Core Tech Stack
+* **Languages:** Python 🐍, Dart (Flutter) 🐦, Kotlin (Android) 🤖, Go 🐹, SQL 🗄️
+* **Security Tools:** Nmap, MobSF, Frida, Ghidra, IDA Pro, Burp Suite 🕵️‍♂️
+* **Infrastructure:** Linux, Firebase, CI/CD Pipelines, KCNA (Cloud-Native) ☁️
 
-### ⚡ Strengths
-- Storyteller’s creativity 🎬  
-- Engineer’s precision 🧑‍💻  
-- Teacher’s clarity 📚  
+### 🚀 Featured Projects
 
-### 🚀 What I’m Looking For
-Opportunities to blend creativity, engineering, and communication to build products that truly matter.
+#### [Voice Journaling Assistant](https://github.com/umarndungo/Voice_Journalling_Assistant) 🎙️
+*Mental health journaling using speech-to-text technology.*
+* Integrated **Flutter + Firebase** (FlutterFire) for secure, real-time data handling.
+* Focused on user-centric accessibility and voice-to-logic mapping.
+* [Watch the MVP Demo on YouTube](https://www.youtube.com/watch?v=klpqY4L6yds)
 
+#### [NexusPay (Security Simulation)](https://github.com/umarndungo) 💳
+*Secure Fintech Wallet architected in both Flutter & Native Kotlin.*
+* Implemented **SSL Pinning**, **Biometric Auth**, and **Root Detection** via a custom JNI bridge.
+* Conducted dynamic analysis using Frida to verify integrity against MitM attacks.
+
+#### [Malware Analysis Portfolio](https://github.com/umarndungo) 🔬
+*A collection of deep-dive reports and reverse engineering tasks.*
+* Detailed walkthroughs of binary exploitation and network reconnaissance scripts.
+* Summarized technical tasks into actionable security insights for stakeholders.
+
+### ⚡ The Intersection
+* **Storyteller’s Creativity:** 🎬 Mapping intuitive journeys from complex problems.
+* **Engineer’s Precision:** 🧑‍💻 Writing clean, scalable, and modular code.
+* **Researcher’s Tactical Edge:** 🛡️ Thinking like an attacker to protect the user.
+
+### 📫 Connect with Me
+* **LinkedIn:** [Umar Ndungo](https://www.linkedin.com/in/umarndungo)
+* **Professional Background:** Graduate of the **AfricaHackOn Academy** 6-month intensive cybersecurity program.
+* **Availability:** Open for collaborations on Offensive Security, Secure App Development, and Technical Writing.
+
+---
+
+### 🛠️ Continuous Learning
+Currently specializing in **Binary Exploitation**, **Android Hacking**, and **Kubernetes (KCNA)**. 
+
+---
+![Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=umarndungo&show_icons=true&theme=radical)
 
 
 
