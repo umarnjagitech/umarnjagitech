@@ -16,7 +16,7 @@
 
 ### 🚀 Featured Projects
 
-#### [Voice Journaling Assistant](https://github.com/umarndungo/Voice_Journalling_Assistant) 🎙️
+#### [Voice Journaling Assistant](https://github.com/umarndungo/Nakuskia_Voice_Journal) 🎙️
 *Mental health journaling using speech-to-text technology.*
 * Integrated **Flutter + Firebase** (FlutterFire) for secure, real-time data handling.
 * Focused on user-centric accessibility and voice-to-logic mapping.
