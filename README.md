@@ -48,8 +48,6 @@
 Currently specializing in **Binary Exploitation**, **Android Hacking**, and **Kubernetes (KCNA)**. 
 
 ---
-![Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=umarndungo&show_icons=true&theme=radical)
-
 
 
 <!---
