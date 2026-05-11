@@ -1,4 +1,4 @@
-# 🛡️ Umar Ndungo | Security-First Software Engineer
+<img width="3281" height="1079" alt="image" src="https://github.com/user-attachments/assets/9c0774a5-d22d-40c2-b54b-6414f794485a" /># 🛡️ Umar Ndungo | Security-First Software Engineer
 
 **The "Build and Break" Specialist.** I bridge the gap between high-performance software engineering and offensive security research. I don't just build applications; I engineer them to survive the modern threat landscape.
 
@@ -15,6 +15,11 @@
 * **Infrastructure:** Linux, Firebase, CI/CD Pipelines, KCNA (Cloud-Native) ☁️
 
 ### 🚀 Featured Projects
+#### [Dynamic Instrumentation](https://github.com/umarndungo/dynamicInstrumentation)
+*Step-by-step notes on Dynamic instrumentation with Frida.*
+* A step-by-step guide on dynamic instrumentation with `frida` and `objection`.
+* Notes from the [hextree.io](https://hextree.io) course.
+* Notes from my successful attempts at solving CTF challenges on the course.
 
 #### [Voice Journaling Assistant](https://github.com/umarndungo/Nakuskia_Voice_Journal) 🎙️
 *Mental health journaling using speech-to-text technology.*
