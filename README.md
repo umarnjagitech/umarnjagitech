@@ -1,4 +1,4 @@
-<img width="3281" height="1079" alt="image" src="https://github.com/user-attachments/assets/9c0774a5-d22d-40c2-b54b-6414f794485a" /># 🛡️ Umar Ndungo | Security-First Software Engineer
+# 🛡️ Umar Ndungo | Security-First Software Engineer
 
 **The "Build and Break" Specialist.** I bridge the gap between high-performance software engineering and offensive security research. I don't just build applications; I engineer them to survive the modern threat landscape.
 
