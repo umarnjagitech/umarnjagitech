@@ -1,7 +1,7 @@
 # 🛡️ Umar Ndungo | Security-First Software Engineer
 
 **The "Build and Break" Specialist.** I bridge the gap between high-performance software engineering and offensive security research. I don't just build applications; I engineer them to survive the modern threat landscape.
-
+<!--
 ---
 
 ### 🧠 What I Do
@@ -13,7 +13,7 @@
 * **Languages:** Python 🐍, Dart (Flutter) 🐦, Kotlin (Android) 🤖, Go 🐹, SQL 🗄️
 * **Security Tools:** Nmap, MobSF, Frida, Ghidra, IDA Pro, Burp Suite 🕵️‍♂️
 * **Infrastructure:** Linux, Firebase, CI/CD Pipelines, KCNA (Cloud-Native) ☁️
-
+-->
 ### 🚀 Featured Projects
 #### [Dynamic Instrumentation](https://github.com/umarndungo/dynamicInstrumentation)
 *Step-by-step notes on Dynamic instrumentation with Frida.*
