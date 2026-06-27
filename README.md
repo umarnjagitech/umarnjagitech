@@ -36,24 +36,24 @@
 *A collection of deep-dive reports and reverse engineering tasks.*
 * Detailed walkthroughs of binary exploitation and network reconnaissance scripts.
 * Summarized technical tasks into actionable security insights for stakeholders.
-
+<!--
 ### ⚡ The Intersection
 * **Storyteller’s Creativity:** 🎬 Mapping intuitive journeys from complex problems.
 * **Engineer’s Precision:** 🧑‍💻 Writing clean, scalable, and modular code.
 * **Researcher’s Tactical Edge:** 🛡️ Thinking like an attacker to protect the user.
-
+-->
 ### 📫 Connect with Me
 * **LinkedIn:** [Umar Ndungo](https://www.linkedin.com/in/umarndungo)
 * **Professional Background:** Graduate of the **AfricaHackOn Academy** 6-month intensive cybersecurity program.
 * **Availability:** Open for collaborations on Offensive Security, Secure App Development, and Technical Writing.
-
+<!--
 ---
 
 ### 🛠️ Continuous Learning
 Currently specializing in **Binary Exploitation**, **Android Hacking**, and **Kubernetes (KCNA)**. 
 
 ---
-
+-->
 
 <!---
 - 👋 Hi, I’m @umarnjagitech
