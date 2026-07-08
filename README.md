@@ -1,6 +1,6 @@
-# 🛡️ Umar Ndungo | Security-First Software Engineer
+# 🛡️ Umar Ndungo
 
-**The "Build and Break" Specialist.** I bridge the gap between high-performance software engineering and offensive security research. I don't just build applications; I engineer them to survive the modern threat landscape.
+<!--**The "Build and Break" Specialist.** I bridge the gap between high-performance software engineering and offensive security research. I don't just build applications; I engineer them to survive the modern threat landscape.-->
 <!--
 ---
 
