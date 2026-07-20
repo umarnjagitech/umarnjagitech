@@ -21,10 +21,12 @@
 * Notes from the [hextree.io](https://hextree.io) course.
 * Notes from my successful attempts at solving CTF challenges on the course.
 
-#### [Voice Journaling Assistant](https://github.com/umarndungo/Nakuskia_Voice_Journal) 🎙️
+#### Voice Journaling Assistant 🎙️
 *Mental health journaling using speech-to-text technology.*
 * Integrated **Flutter + Firebase** (FlutterFire) for secure, real-time data handling.
 * Focused on user-centric accessibility and voice-to-logic mapping.
+* [Version one](https://github.com/enzonjagi/Voice_Journalling_Assistant)
+* [Kotlin Version - Incomplete](https://github.com/umarndungo/Nakuskia_Voice_Journal)
 <!--* [Watch the MVP Demo on YouTube](https://www.youtube.com/watch?v=klpqY4L6yds)-->
 
 <!--#### [NexusPay (Security Simulation)](https://github.com/umarndungo) 💳
