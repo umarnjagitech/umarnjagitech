@@ -26,6 +26,8 @@
 * Integrated **Flutter + Firebase** (FlutterFire) for secure, real-time data handling.
 * Focused on user-centric accessibility and voice-to-logic mapping.
 * [Version one](https://github.com/enzonjagi/Voice_Journalling_Assistant)
+* [Version one Demo video](https://www.loom.com/share/b4d489fd7e58447e94f5c1bc8d358155)
+* [Version one Demo video Extended](https://www.loom.com/share/e4b4db971a8a4ab0bc85a06339515e1a)
 * [Kotlin Version - Incomplete](https://github.com/umarndungo/Nakuskia_Voice_Journal)
 <!--* [Watch the MVP Demo on YouTube](https://www.youtube.com/watch?v=klpqY4L6yds)-->
 
