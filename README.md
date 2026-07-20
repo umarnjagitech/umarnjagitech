@@ -35,9 +35,20 @@
 * Conducted dynamic analysis using Frida to verify integrity against MitM attacks.-->
 
 #### [Malware Analysis Demo](https://youtube.com/@ch13f_um4r) 🔬
-*A collection of deep-dive reports and reverse engineering tasks.*
+* A collection of deep-dive reports and reverse engineering tasks.*
 * Detailed walkthroughs of binary exploitation and network reconnaissance scripts.
 * Summarized technical tasks into actionable security insights for stakeholders.
+
+#### [Islamic Calendar App](https://github.com/enzonjagi/Islam_Calendar_App)
+* The Islamic Calendar Web Application will be a web-based application that will allow users to view important Islamic dates and events based on the Hijri calendar.
+* The application will be designed to be user-friendly and accessible for Muslims around the world.
+* A demo will be shared soonest possible.
+
+#### [Simple Shell](https://github.com/enzonjagi/simple_shell)
+* A C programming language UNIX command line interpreter.
+
+
+
 <!--
 ### ⚡ The Intersection
 * **Storyteller’s Creativity:** 🎬 Mapping intuitive journeys from complex problems.
